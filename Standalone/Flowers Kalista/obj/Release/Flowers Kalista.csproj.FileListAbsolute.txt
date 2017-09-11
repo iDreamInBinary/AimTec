@@ -1,0 +1,9 @@
+D:\Sharp\AimTec\Flowers Kalista\bin\Release\Flowers Kalista.exe.config
+D:\Sharp\AimTec\Flowers Kalista\bin\Release\Flowers Kalista.exe
+D:\Sharp\AimTec\Flowers Kalista\bin\Release\Flowers Kalista.pdb
+D:\Sharp\AimTec\Flowers Kalista\bin\Release\Aimtec.dll
+D:\Sharp\AimTec\Flowers Kalista\bin\Release\Aimtec.SDK.dll
+D:\Sharp\AimTec\Flowers Kalista\bin\Release\NLog.dll
+D:\Sharp\AimTec\Flowers Kalista\bin\Release\Newtonsoft.Json.dll
+D:\Sharp\AimTec\Flowers Kalista\obj\Release\Flowers Kalista.exe
+D:\Sharp\AimTec\Flowers Kalista\obj\Release\Flowers Kalista.pdb

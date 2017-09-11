@@ -1,0 +1,9 @@
+D:\Sharp\AimTec\Flowers Darius\bin\Release\Flowers Darius.exe.config
+D:\Sharp\AimTec\Flowers Darius\bin\Release\Flowers Darius.exe
+D:\Sharp\AimTec\Flowers Darius\bin\Release\Flowers Darius.pdb
+D:\Sharp\AimTec\Flowers Darius\bin\Release\Aimtec.dll
+D:\Sharp\AimTec\Flowers Darius\bin\Release\Aimtec.SDK.dll
+D:\Sharp\AimTec\Flowers Darius\bin\Release\NLog.dll
+D:\Sharp\AimTec\Flowers Darius\bin\Release\Newtonsoft.Json.dll
+D:\Sharp\AimTec\Flowers Darius\obj\Release\Flowers Darius.exe
+D:\Sharp\AimTec\Flowers Darius\obj\Release\Flowers Darius.pdb

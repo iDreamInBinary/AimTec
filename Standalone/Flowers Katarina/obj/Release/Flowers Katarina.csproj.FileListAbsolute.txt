@@ -1,0 +1,9 @@
+D:\Sharp\AimTec\Flowers Katarina\bin\Release\Flowers Katarina.exe.config
+D:\Sharp\AimTec\Flowers Katarina\bin\Release\Flowers Katarina.exe
+D:\Sharp\AimTec\Flowers Katarina\bin\Release\Flowers Katarina.pdb
+D:\Sharp\AimTec\Flowers Katarina\bin\Release\Aimtec.dll
+D:\Sharp\AimTec\Flowers Katarina\bin\Release\Aimtec.SDK.dll
+D:\Sharp\AimTec\Flowers Katarina\bin\Release\NLog.dll
+D:\Sharp\AimTec\Flowers Katarina\bin\Release\Newtonsoft.Json.dll
+D:\Sharp\AimTec\Flowers Katarina\obj\Release\Flowers Katarina.exe
+D:\Sharp\AimTec\Flowers Katarina\obj\Release\Flowers Katarina.pdb

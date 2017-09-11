@@ -1,0 +1,11 @@
+D:\Sharp\AimTec\Flowers Vladimir\obj\Release\Flowers Vladimir.csprojResolveAssemblyReference.cache
+D:\Sharp\AimTec\Flowers Vladimir\bin\Release\Flowers Vladimir.exe.config
+D:\Sharp\AimTec\Flowers Vladimir\bin\Release\Flowers Vladimir.exe
+D:\Sharp\AimTec\Flowers Vladimir\bin\Release\Flowers Vladimir.pdb
+D:\Sharp\AimTec\Flowers Vladimir\bin\Release\Aimtec.dll
+D:\Sharp\AimTec\Flowers Vladimir\bin\Release\Aimtec.SDK.dll
+D:\Sharp\AimTec\Flowers Vladimir\bin\Release\Flowers Library.dll
+D:\Sharp\AimTec\Flowers Vladimir\bin\Release\NLog.dll
+D:\Sharp\AimTec\Flowers Vladimir\bin\Release\Newtonsoft.Json.dll
+D:\Sharp\AimTec\Flowers Vladimir\obj\Release\Flowers Vladimir.exe
+D:\Sharp\AimTec\Flowers Vladimir\obj\Release\Flowers Vladimir.pdb
