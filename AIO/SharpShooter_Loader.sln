@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpShooter_Loader", "SharpShooter_Loader.csproj", "{FDDFA338-6342-40F5-9E3C-67C53E8A9E2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDDFA338-6342-40F5-9E3C-67C53E8A9E2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDDFA338-6342-40F5-9E3C-67C53E8A9E2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDDFA338-6342-40F5-9E3C-67C53E8A9E2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDDFA338-6342-40F5-9E3C-67C53E8A9E2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4FA7EBD-CFA8-4540-BF6A-D9C516C001C2}
+	EndGlobalSection
+EndGlobal
