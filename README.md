@@ -5,3 +5,5 @@ Standalone Assembly -> 单独英雄脚本<br>
  <br>
 If you have Any question/problem for my assembly, please make issue in my GitHub, i will check it <br>
 假如你有任何问题/反馈 对于我的脚本, 那么请在GitHub上面创建一个Issue, 我会检查 <br>
+ <br>
+DO Not Send me PM in the forum and DM in the Discord, i dont use that <br>
